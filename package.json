@@ -1,0 +1,19 @@
+{
+  "name": "mf_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CFrancoChavez/MF.project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CFrancoChavez/MF.project/issues"
+  },
+  "homepage": "https://github.com/CFrancoChavez/MF.project#readme"
+}
